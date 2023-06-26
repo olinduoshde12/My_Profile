@@ -1,0 +1,16 @@
+/*about section*/
+
+
+.text h1{
+    color: #ffcc74;
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.text h5{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
