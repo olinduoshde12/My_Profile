@@ -20,11 +20,11 @@ Hi,I am Olindu Oshda Peris.
 🖥️service section
 ![Screenshot (71)](https://github.com/olinduoshde12/My_Profile/assets/121952996/df2cfd4f-3632-4676-893a-be039a591a6e)
 
-👮‍♀️👩‍🏫education section
+👮‍♀️👩‍🏫project section
 ![Screenshot (72)](https://github.com/olinduoshde12/My_Profile/assets/121952996/166a106a-8154-4640-8e91-3081aed40080)
 
-✨🎉Skill section
+✨🎉Assignment section
 ![Screenshot (73)](https://github.com/olinduoshde12/My_Profile/assets/121952996/11b525b0-e154-41b2-b466-b8cd18c0879c)
 
-
+Contac section
 ![Screenshot (74)](https://github.com/olinduoshde12/My_Profile/assets/121952996/06780ccb-6aee-4cc4-ae85-2f92055b4e17)
